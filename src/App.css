@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.btn btn-primary{
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.accordion-button::after{
+  filter: invert(1);
+}
